@@ -4,16 +4,12 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    name: A job to publish zulip-archive in GitHub pages
     steps:
     - name: Checkout
       uses: actions/checkout@main
-    - name: Run archive
-      id: archive
-      uses: zulip/zulip-archive@master
+    - uses: zulip/zulip-archive@master
       with:
         zuliprc: ${{ secrets.ZULIPRC }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # delete_history: true # may eventually need to enable this to save space
         archive_branch: main
-        

@@ -2,5 +2,5 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<!-- Powered by https://github.com/pigs-will-fly/py-xml-sitemap-writer -->
 	<!-- 9 urls -->
-	<sitemap><loc>http://archive.zulip.developing-today.com/sitemap-001-pages.xml.gz</loc></sitemap>
+	<sitemap><loc>https://archive.zulip.developing-today.com/sitemap-001-pages.xml.gz</loc></sitemap>
 </sitemapindex>

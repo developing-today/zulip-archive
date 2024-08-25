@@ -16,11 +16,11 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 464956370,
+            "latest_id": 464957467,
             "topic_data": {
                 "(no topic)": {
-                    "latest_date": 1724570195,
-                    "size": 2
+                    "latest_date": 1724570971,
+                    "size": 3
                 },
                 "channel events": {
                     "latest_date": 1724570253,
@@ -47,5 +47,5 @@
             }
         }
     },
-    "time": 1724570709.4272158
+    "time": 1724571235.9582205
 }

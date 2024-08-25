@@ -3,6 +3,10 @@ on:
   workflow_dispatch:
   schedule:
    - cron: '*/5 * * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 jobs:
   publish:
     runs-on: ubuntu-latest

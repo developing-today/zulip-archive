@@ -16,5 +16,5 @@ jobs:
       with:
         zuliprc: ${{ secrets.ZULIPRC }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        # delete_history: true # may eventually need to enable this to save space
+        delete_history: false
         archive_branch: main

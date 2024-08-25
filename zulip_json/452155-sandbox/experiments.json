@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p><span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span>  Use this topic to try out <a href=\"/help/format-your-message-using-markdown\">Zulip's messaging features</a>.</p>",
+        "id": 463896336,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    },
+    {
+        "content": "<div class=\"spoiler-block\"><div class=\"spoiler-header\">\n<p>Want to see some examples?</p>\n</div><div class=\"spoiler-content\" aria-hidden=\"true\">\n<div class=\"codehilite\" data-code-language=\"Python\"><pre><span></span><code><span class=\"nb\">print</span><span class=\"p\">(</span><span class=\"s2\">\"code blocks\"</span><span class=\"p\">)</span>\n</code></pre></div>\n<ul>\n<li>bulleted</li>\n<li>lists</li>\n</ul>\n<p>Link to a conversation: <a class=\"stream-topic\" data-stream-id=\"452154\" href=\"/#narrow/stream/452154-Zulip/topic/welcome.20to.20Zulip.21\">#Zulip &gt; welcome to Zulip!</a></p>\n</div></div>",
+        "id": 463896337,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    }
+]

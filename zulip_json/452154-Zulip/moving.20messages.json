@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>If anything is out of place, it’s easy to <a href=\"/help/move-content-to-another-topic\">move messages</a>, <a href=\"/help/rename-a-topic\">rename</a> and <a href=\"/help/move-content-to-another-topic\">split</a> topics, or even move a topic <a href=\"/help/move-content-to-another-channel\">to a different channel</a>.</p>",
+        "id": 463896334,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    },
+    {
+        "content": "<p><span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span> Try moving this message to another topic and back.</p>",
+        "id": 463896335,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    }
+]

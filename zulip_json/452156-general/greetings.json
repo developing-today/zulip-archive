@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>This <strong>greetings</strong> topic is a great place to say “hi” <span aria-label=\"wave\" class=\"emoji emoji-1f44b\" role=\"img\" title=\"wave\">:wave:</span> to your teammates.</p>",
+        "id": 463896341,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    },
+    {
+        "content": "<p><span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span> Click on this message to start a new message in the same conversation.</p>",
+        "id": 463896342,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    }
+]

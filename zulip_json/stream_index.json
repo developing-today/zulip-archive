@@ -1,0 +1,43 @@
+{
+    "streams": {
+        "Zulip": {
+            "id": 452154,
+            "latest_id": 463896345,
+            "topic_data": {
+                "moving messages": {
+                    "latest_date": 1724198529,
+                    "size": 2
+                },
+                "welcome to Zulip!": {
+                    "latest_date": 1724198529,
+                    "size": 3
+                }
+            }
+        },
+        "general": {
+            "id": 452156,
+            "latest_id": 463896342,
+            "topic_data": {
+                "greetings": {
+                    "latest_date": 1724198529,
+                    "size": 2
+                }
+            }
+        },
+        "sandbox": {
+            "id": 452155,
+            "latest_id": 463896340,
+            "topic_data": {
+                "experiments": {
+                    "latest_date": 1724198529,
+                    "size": 2
+                },
+                "start a conversation": {
+                    "latest_date": 1724198529,
+                    "size": 3
+                }
+            }
+        }
+    },
+    "time": 1724568853.7809484
+}

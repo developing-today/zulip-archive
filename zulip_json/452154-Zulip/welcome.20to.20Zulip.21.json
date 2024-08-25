@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>Zulip is organized to help you communicate more efficiently. Conversations are labeled with topics, which summarize what the conversation is about.</p>\n<p>For example, this message is in the “welcome to Zulip!” topic in the <a class=\"stream\" data-stream-id=\"452154\" href=\"/#narrow/stream/452154-Zulip\">#Zulip</a> channel, as you can see in the left sidebar and above.</p>",
+        "id": 463896343,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    },
+    {
+        "content": "<p>You can read Zulip one conversation at a time, seeing each message in context, no matter how many other conversations are going on.</p>",
+        "id": 463896344,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    },
+    {
+        "content": "<p><span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span> When you're ready, check out your <a href=\"/#inbox\">Inbox</a> for other conversations with unread messages.</p>",
+        "id": 463896345,
+        "sender_full_name": "Welcome Bot",
+        "timestamp": 1724198529
+    }
+]

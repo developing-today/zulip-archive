@@ -5,7 +5,7 @@ on:
      - main
   workflow_dispatch:
   schedule:
-   - cron: '*/7 * * * *'
+   - cron: '*/9 * * * *'
 permissions:
   contents: write
   pages: write

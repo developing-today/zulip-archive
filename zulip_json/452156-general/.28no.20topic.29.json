@@ -52,5 +52,11 @@
         "id": 464975107,
         "sender_full_name": "dezren39",
         "timestamp": 1724579567
+    },
+    {
+        "content": "<p>i figured out how to add template vars and customized the hooks/after-note.tpl template. i'm currently working through a change in the sidebar-tree.tpl,sidebar.tpl,footer.tpl and have some questions. i think i need to make more changes in emanote to achieve my goals but kinda wanted to check if you had any suggestions.</p>\n<ul>\n<li>can i access the same vars as after-note.tpl in the sidebars/footer?</li>\n<li>can i access the index.yaml variables in the sidebars/footer?<br>\n    - such as <code>editBaseUrl</code> (and i added a <code>newBaseUrl</code> and <code>deleteBaseUrl</code>)</li>\n</ul>",
+        "id": 465699892,
+        "sender_full_name": "dezren39",
+        "timestamp": 1724836425
     }
 ]

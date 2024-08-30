@@ -58,5 +58,11 @@
         "id": 465699892,
         "sender_full_name": "dezren39",
         "timestamp": 1724836425
+    },
+    {
+        "content": "<p>Side-note:</p>\n<ul>\n<li>what happens if you have both <code>dir.md</code> and <code>dir/index.md</code>?</li>\n<li>if i have <code>dir.md</code> with title <code># example</code>, are its children under <code>dir/</code>?</li>\n</ul>",
+        "id": 466188584,
+        "sender_full_name": "dezren39",
+        "timestamp": 1725004830
     }
 ]

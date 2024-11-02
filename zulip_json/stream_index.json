@@ -16,14 +16,18 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 480179501,
+            "latest_id": 480179799,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1730164739,
                     "size": 14
                 },
                 "Core": {
-                    "latest_date": 1730519457,
+                    "latest_date": 1730519602,
+                    "size": 4
+                },
+                "Extended": {
+                    "latest_date": 1730519813,
                     "size": 1
                 },
                 "Persistence": {
@@ -63,5 +67,5 @@
             }
         }
     },
-    "time": 1730519552.9517598
+    "time": 1730520744.5828595
 }

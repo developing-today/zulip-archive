@@ -4,5 +4,23 @@
         "id": 480179501,
         "sender_full_name": "dezren39",
         "timestamp": 1730519457
+    },
+    {
+        "content": "<p>pxe boot installs on host disk<br>\nconnects data disks on host disk boot<br>\nhost disk either a partition on nvme<br>\nor something like a USB ssd that boots into a ram disk or something, free up all nvme slots for data</p>\n<p>start with just installing anything and then optimize when run out of nvme slots, run out of nvme buy more nvme</p>",
+        "id": 480179601,
+        "sender_full_name": "dezren39",
+        "timestamp": 1730519580
+    },
+    {
+        "content": "<p>do as much as possible before electricity becomes bottleneck</p>",
+        "id": 480179609,
+        "sender_full_name": "dezren39",
+        "timestamp": 1730519598
+    },
+    {
+        "content": "<p>noise control</p>",
+        "id": 480179610,
+        "sender_full_name": "dezren39",
+        "timestamp": 1730519602
     }
 ]

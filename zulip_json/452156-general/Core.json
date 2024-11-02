@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<ul>\n<li>3 thread rippers connected at 100 or 2*100</li>\n<li>xcp-ng / xen</li>\n<li>provision <ul>\n<li>open tofu (? that nix Terraform thing ?)</li>\n<li>something like openstack or talos</li>\n</ul>\n</li>\n<li>tailscale</li>\n<li>router</li>\n<li>load balancer</li>\n<li>persistent volumes</li>\n<li>prefer stateless or replaceable host drives</li>\n<li>pxe boot</li>\n</ul>",
+        "id": 480179501,
+        "sender_full_name": "dezren39",
+        "timestamp": 1730519457
+    }
+]

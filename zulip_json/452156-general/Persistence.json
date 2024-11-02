@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<p>replacement for cockroachdb</p>\n<ul>\n<li>nats</li>\n<li>postgres</li>\n<li>clickhouse</li>\n</ul>\n<p>already planning for using sqlite libsql turso,</p>\n<p>so maybe</p>\n<ul>\n<li>even more sqlite</li>\n</ul>",
+        "id": 480179092,
+        "sender_full_name": "dezren39",
+        "timestamp": 1730519053
+    }
+]

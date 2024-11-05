@@ -16,7 +16,7 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 480179799,
+            "latest_id": 480655213,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1730164739,
@@ -33,6 +33,10 @@
                 "Persistence": {
                     "latest_date": 1730519053,
                     "size": 1
+                },
+                "Zulip updates": {
+                    "latest_date": 1730792017,
+                    "size": 2
                 },
                 "channel events": {
                     "latest_date": 1724570253,
@@ -67,5 +71,5 @@
             }
         }
     },
-    "time": 1730791522.6812668
+    "time": 1730792020.5624201
 }

@@ -16,11 +16,11 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 482756792,
+            "latest_id": 483987142,
             "topic_data": {
                 "(no topic)": {
-                    "latest_date": 1731751621,
-                    "size": 15
+                    "latest_date": 1732307675,
+                    "size": 16
                 },
                 "Core": {
                     "latest_date": 1730519602,
@@ -71,5 +71,5 @@
             }
         }
     },
-    "time": 1732307472.387776
+    "time": 1732308244.667354
 }

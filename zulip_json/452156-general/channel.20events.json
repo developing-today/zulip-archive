@@ -4,5 +4,11 @@
         "id": 464956370,
         "sender_full_name": "Notification Bot",
         "timestamp": 1724570253
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"747422\">Admin</span> changed the <a href=\"/help/channel-permissions\">access permissions</a> for this channel from <strong>Public</strong> to <strong>Web-public</strong>.</p>",
+        "id": 484036524,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1732342017
     }
 ]

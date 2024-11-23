@@ -94,5 +94,11 @@
         "id": 483987142,
         "sender_full_name": "dezren39",
         "timestamp": 1732307675
+    },
+    {
+        "content": "<div class=\"codehilite\" data-code-language=\"Nix\"><pre><span></span><code><span class=\"k\">let</span>\n<span class=\"ss\">x</span> <span class=\"o\">=</span> <span class=\"mi\">1</span>\n<span class=\"k\">in</span>\nx\n</code></pre></div>",
+        "id": 484036758,
+        "sender_full_name": "Admin",
+        "timestamp": 1732342309
     }
 ]

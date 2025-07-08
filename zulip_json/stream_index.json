@@ -16,7 +16,7 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 524581150,
+            "latest_id": 527589205,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1732342309,
@@ -41,6 +41,10 @@
                 "channel events": {
                     "latest_date": 1732342017,
                     "size": 2
+                },
+                "general chat": {
+                    "latest_date": 1751937299,
+                    "size": 1
                 },
                 "greetings": {
                     "latest_date": 1724198529,
@@ -71,5 +75,5 @@
             }
         }
     },
-    "time": 1751936377.0803094
+    "time": 1751942999.8865075
 }

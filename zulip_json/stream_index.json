@@ -16,7 +16,7 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 579079114,
+            "latest_id": 580087778,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1732342309,
@@ -54,6 +54,10 @@
                     "latest_date": 1724572293,
                     "size": 3
                 },
+                "signups": {
+                    "latest_date": 1773800378,
+                    "size": 1
+                },
                 "todo": {
                     "latest_date": 1752119256,
                     "size": 3
@@ -75,5 +79,5 @@
             }
         }
     },
-    "time": 1773795465.1050215
+    "time": 1773805080.6459317
 }

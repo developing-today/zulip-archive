@@ -106,5 +106,17 @@
         "id": 589400695,
         "sender_full_name": "Notification Bot",
         "timestamp": 1776833470
+    },
+    {
+        "content": "<p>Zulip now <a href=\"/help/mobile-notifications#end-to-end-encryption-e2ee-for-mobile-push-notifications\">encrypts</a> your push notifications end to end from the Zulip server to your mobile device when you use version 30.0.272+ of the mobile app.</p>\n<p><strong>Web and desktop updates</strong></p>\n<ul>\n<li>You can now <a href=\"/help/search-for-messages#search-your-important-messages\">search</a> for messages that mention any user with the <code>mentions:</code> filter.</li>\n</ul>",
+        "id": 591571844,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1777411643
+    },
+    {
+        "content": "<p>We make many improvements to Zulip beyond what we can share here. Learn about additional feature highlights, and other Zulip project updates since last August, in the <a href=\"https://blog.zulip.com/zulip-server-12-0\">blog post</a> announcing today's release of Zulip Server 12.0.</p>",
+        "id": 591571845,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1777411643
     }
 ]

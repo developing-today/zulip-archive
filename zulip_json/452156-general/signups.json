@@ -4,5 +4,11 @@
         "id": 580087778,
         "sender_full_name": "Notification Bot",
         "timestamp": 1773800378
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"1216128\">Munoz Logan Ryan</span> joined this organization.</p>",
+        "id": 631861597,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1792048026
     }
 ]

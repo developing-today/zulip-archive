@@ -16,7 +16,7 @@
         },
         "general": {
             "id": 452156,
-            "latest_id": 591571845,
+            "latest_id": 631861684,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1732342309,
@@ -43,8 +43,8 @@
                     "size": 2
                 },
                 "general chat": {
-                    "latest_date": 1752119207,
-                    "size": 2
+                    "latest_date": 1792048055,
+                    "size": 3
                 },
                 "greetings": {
                     "latest_date": 1724198529,
@@ -55,8 +55,8 @@
                     "size": 3
                 },
                 "signups": {
-                    "latest_date": 1773800378,
-                    "size": 1
+                    "latest_date": 1792048026,
+                    "size": 2
                 },
                 "todo": {
                     "latest_date": 1752119256,
@@ -79,5 +79,5 @@
             }
         }
     },
-    "time": 1792045464.2397323
+    "time": 1792064961.762724
 }
